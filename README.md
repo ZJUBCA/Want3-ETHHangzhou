@@ -1,8 +1,8 @@
 # Want3-ETHHangzhou
 
-**1 项目名称：**Want3
+**1 项目名称：** Want3
 
-**2 所选赛道：**Public Goods
+**2 所选赛道：** Public Goods
 
 **3 项目图片：**
 
