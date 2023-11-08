@@ -14,7 +14,7 @@ Want3 是一个 public goods 工具，服务于解决 ETH 生态上的帮人代�
 
 **5 队长和队友：**
 
-队长：[Ryan🦄.eth]([RyanFcr (github.com)](https://github.com/RyanFcr))
+队长：[Ryan🦄.eth](https://github.com/RyanFcr)
 
 队友：
 
